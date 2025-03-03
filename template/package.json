@@ -1,5 +1,5 @@
 {
-  "name": "nobleui",
+  "name": "Claraverse",
   "version": "3.0",
   "description": "HTML Bootstrap 5 Admin Dashboard Template",
   "main": "gulpfile.js",
@@ -63,7 +63,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "NobleUI",
+  "author": "Claraverse",
   "license": "ISC",
-  "homepage": "https://nobleui.com"
+  "homepage": "https://Claraverse.com"
 }

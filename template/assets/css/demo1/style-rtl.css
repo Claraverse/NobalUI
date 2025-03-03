@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /*
-* NobleUI - HTML Bootstrap 5 Admin Dashboard Template v3.0 (https://nobleui.com/)
-* Copyright © 2024 NobleUI
+* ClaraverseUI - HTML Bootstrap 5 Admin Dashboard Template v3.0 (https://Claraverseui.com/)
+* Copyright © 2025ClaraverseUI
 * Licensed under ThemeForest License
 */
 :root,
@@ -16227,20 +16227,20 @@ body {
   padding: 0;
 }
 
-.nobleui-logo {
+.Claraverseui-logo {
   font-weight: 700;
   font-size: 25px;
   color: #000865;
 }
-.nobleui-logo span {
+.Claraverseui-logo span {
   color: #6571ff;
   font-weight: 300;
 }
-.nobleui-logo:hover {
+.Claraverseui-logo:hover {
   color: #000865;
 }
 
-[data-bs-theme=dark] .nobleui-logo {
+[data-bs-theme=dark] .Claraverseui-logo {
   color: #e9ecef;
 }
 
